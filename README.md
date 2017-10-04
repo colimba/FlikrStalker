@@ -1,0 +1,2 @@
+# FlikrStalker
+FlikrStalker es una aplicación para dispositivos Android que tiene como objetivo conectarse con la red social Flikr para mostrar fotos de usuarios específicos o de usuarios en general de una manera distinta. Es un proyecto realizado por Giacosa Andrés y Mattio Paolo para la materia Tecnología de Desarrollo de Aplicaciones Móviles de la Universidad Tecnológica Nacional - Facultad Regional Córdoba.
